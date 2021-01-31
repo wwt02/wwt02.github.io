@@ -1,4 +1,4 @@
-## Welcome to WentaoWang's Page
+## Welcome to Wentao Wang's homepage
 
 You can use the [editor on GitHub](https://github.com/wwt02/wwt02.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
